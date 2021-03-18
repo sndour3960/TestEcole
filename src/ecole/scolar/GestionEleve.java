@@ -18,7 +18,7 @@ public class GestionEleve {
 		System.out.println("Identifiant\tPrenom\tNom");
 		for (Eleve eleve : eleves) {
 			System.out.println(eleve.toString());
-			
+			System.out.println("Bonjour");
 			
 		}
 		
